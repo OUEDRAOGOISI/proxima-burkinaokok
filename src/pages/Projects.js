@@ -10,7 +10,7 @@ AOS.init({
 function Projects() {
     return (
         <Layout>
-            <div className="h-screen mt-10">
+            <div className="mt-10">
                 <div className="h-screen">
                     <div className="h-3/4">
                         <lottie-player
