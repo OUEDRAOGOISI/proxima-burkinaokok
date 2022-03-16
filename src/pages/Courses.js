@@ -33,7 +33,7 @@ function Courses() {
         </div>
       </div>
 
-      <div className="mt-20 md:mt-5">
+      <div className="mt-10 md:mt-5">
         <p className="text-xl font-semibold text-center">
           “PROXIMA ne peux pas enseigner aux gens tout ce qu'ils doivent savoir. Mais
           c'est de les positionner là où ils peuvent trouver ce qu'ils ont besoin de savoir quand 
@@ -46,7 +46,7 @@ function Courses() {
         <h1 className="text-8xl md:text-3xl" data-aos='slide-up'>CONTINUELLE</h1>
       </div>
 
-      <div className="grid mt-20 md:grid-cols-1 grid-cols-3 items-center justify-center gap-10 mx-20 md:mx-5">
+      <div className="grid mt-10 md:grid-cols-1 grid-cols-3 items-center justify-center gap-10 mx-20 md:mx-5">
             {coursesData.map((cource=>{
               return <div>
                   <div className='relative border-2 text-center rounded-tr-3xl rounded-bl-3xl border-gray-400'>
