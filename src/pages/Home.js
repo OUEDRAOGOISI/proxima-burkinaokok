@@ -107,7 +107,7 @@ function Home() {
 
                 {/* Intro section*/}
 
-                <div className='my-20'>
+                <div className='my-10'>
                     <div className='text-center h-52 bg-primary'>
                         <h1 className='text-white font-bold text-4xl py-10'>Oui, nous sommes experts en dessin batiment</h1>
                     </div>
@@ -133,7 +133,7 @@ function Home() {
 
 
                 {/* {Dev stack section} */}
-                <div className="my-20">
+                <div className="my-10">
                     <div className="text-center h-52 bg-red-500">
                         <h1 className="text-white font-bold text-4xl py-10">
                         Autres domaines professionnelles
