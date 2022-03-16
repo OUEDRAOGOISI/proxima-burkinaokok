@@ -11,7 +11,7 @@ function Projects() {
     return (
         <Layout>
             <div className="mt-10">
-                <div className="h-screen">
+                <div className="h-screen items-center border-4 mx-10 z-10">
                     <div className="h-3/4">
                         <lottie-player
                         src="https://assets2.lottiefiles.com/packages/lf20_0tue65cn.json"
