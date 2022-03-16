@@ -21,7 +21,7 @@ function Projects() {
                     autoplay
                     ></lottie-player>
                 </div>
-                <p className='text-xl font-semibold text-center'>Les bonnes idées ne sont pas adoptées automatiquement. Ils doivent être mis en pratique avec une patience courageuse</p>
+                <p className='text-xl font-semibold text-center'>Les bonnes idées ne sont pas adoptées automatiquement. Ils doivent être mises en pratique avec une patience courageuse</p>
                 <h1 className='text-4xl text-center font-bold mt-5' data-aos='slide-up'>Parceque</h1>
                 </div>
                 <div className='font-bold text-center bg-green-500 mx-20 p-20 text-white rounded-tl-full rounded-br-full md:mx-5'>

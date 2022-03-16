@@ -124,7 +124,7 @@ function Home() {
                         </div>
                         <p className="text-xl my-5 font-semibold md:px-5 px-14 py-10">
                         AutoCAD et ARCHICAD sont des logiciels de conception assistée par ordinateur (CAO) 
-                        qui permet aux architectes, aux ingénieurs et aux professionnels de la construction
+                        qui permettent aux architectes, aux ingénieurs et aux professionnels de la construction
                         de créer des dessins 2D et 3D précis.
                         </p>
 

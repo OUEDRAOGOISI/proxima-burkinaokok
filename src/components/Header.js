@@ -33,7 +33,7 @@ function Header() {
   return (
       <div className='text-white font-mont fixed top-0 left-0 right-0 z-10'>
           <div className={`flex bg-theme justify-between items-center p-2 shadow-lg ${showMenu=='' && 'md:flex-col'} `}>
-              <div className='flex justify-between items-center w-full'>
+              <div className='md:flex shadow-2xl flex justify-between items-center w-full'>
                 <Link to='/' > <img src="logo.png" alt="light logo"/><h6  className='text-3/4xl font-semibold hover:text-yellow-500 cursor-pointer' >PROXIMA FORMATION </h6> </Link>
                 
                 <FaBars onClick={() => {
