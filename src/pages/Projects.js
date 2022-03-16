@@ -29,7 +29,7 @@ function Projects() {
                     <h1 className='text-8xl md:text-3xl' data-aos='slide-right'>PAS DE SCIENCES </h1>
                 </div>
             </div>
-            <div className="grid mt-20 md:grid-cols-1 grid-cols-3 items-center justify-center gap-10 mx-20 md:mx-5">
+            <div className="grid mt-10 md:grid-cols-1 grid-cols-3 items-center justify-center gap-10 mx-20 md:mx-5">
                 {projectsData.map((project=>{
                 return <div>
                     <div className='relative p-10 border-2 text-center rounded-tr-3xl rounded-bl-3xl border-gray-400'>
